@@ -1,0 +1,15 @@
+url: https://romanistika-upol.github.io/cifre.github.io/
+gems:
+  - jekyll-multiple-languages-plugin
+
+
+languages: ["en", "cz", "fr", "it", "sp", "pt" ]
+exclude_from_localizations: ["assets", "CNAME"]
+defaultLang: en
+languageNames:
+  fr: French
+  it: Italian
+  en: English
+  cz: Czech
+  sp: Spanish
+  pt: Portuguese
