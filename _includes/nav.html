@@ -6,9 +6,17 @@
       </div>
       <nav class="tm-navbar uk-navbar">
             <ul class="uk-navbar-nav uk-visible-large">
+                {% assign pages=site.pages | where:"lang", page.lang %}
+                {% for my_page in pages %}
+                  {% if my_page.title %}
+                  <li><a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
+                  {% endif %}
+                {% endfor %}
+
+              <br>
               {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
               {% for post in posts %} <li><a href="{{ post.url | prepend: site.baseurl }}" class="{{ post.lang }}">{{ post.lang }}</a></li> {% endfor %}
-              <br>
+              
               {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
               {% for page in pages %} <li><a href="{{ page.url | prepend: site.baseurl }}" class="{{ page.lang }}">{{ page.lang }}</a></li> {% endfor %}
           </ul>
