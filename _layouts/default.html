@@ -3,18 +3,29 @@
 
   {% include head.html %}
 
-  <body>
-
-    {% include nav.html %}
-
+  <body data-rsssl=1 class="home page-template-default page page-id-30 tm-isblog wp-front_page wp-page wp-page-30 tm-article-blog cookies-not-set woocommerce-no-js tribe-no-js">
+    <div class="tm-navbar-container">
+      <div class="uk-position-relative uk-text-center">
+        <div class="tm-navbar-left uk-flex uk-flex-middle">
+          <a class="tm-logo-small uk-visible-large" href="https://upoint.upol.cz"><img src="https://upoint.upol.cz/wp-content/uploads/UPoint_logo_bila.png" width="175" height="70" alt="Demo"></a>
+          <a href="#offcanvas" class="uk-navbar-toggle uk-hidden-large" data-uk-offcanvas></a>
+        </div>
+        {% include nav.html %}
+      </div>         
+    </div>
+  
     <div class="page-content">
       <div class="wrapper">
         {{ content }}
       </div>
     </div>
-
+    
     {% include footer.html %}
-
+  
   </body>
+  
 
 </html>
+
+
+
