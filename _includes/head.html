@@ -6,17 +6,26 @@
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title[page.lang] | escape }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description[page.lang] }}{% endif %}">
 
-  <link rel="stylesheet" type="text/css" href="http://upol.cz/typo3temp/Assets/97ca9dd456.css?1520982868" media="all">
-  <link rel="stylesheet" type="text/css" href="http://upol.cz/typo3conf/ext/jh_magnificpopup/Resources/Public/css/magnific-popup.css?1473676307" media="all">
-  <link rel="stylesheet" type="text/css" href="http://upol.cz/typo3conf/ext/owl_slider/Resources/Public/owl-carousel/owl.carousel.css?1473676367" media="all">
-  <link rel="stylesheet" type="text/css" href="http://upol.cz/typo3conf/ext/owl_slider/Resources/Public/owl-carousel/owl.theme.css?1473676367" media="all">
-  <link rel="stylesheet" type="text/css" href="http://upol.cz/typo3conf/ext/owl_slider/Resources/Public/owl-carousel/owl.transitions.css?1473676367" media="all">
-  <link rel="stylesheet" type="text/css" href="http://upol.cz/typo3conf/ext/owl_slider/Resources/Public/owl-carousel/custom.css?1473676367" media="all">
-  <link rel="stylesheet" type="text/css" href="http://upol.cz/fileadmin/ext/owlcarousel/owlcarousel-up.css?1464183383" media="all">
-  <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=PT+Sans:400,400i,700,700i&amp;subset=latin-ext" media="all">
-  <link rel="stylesheet" type="text/css" href="http://upol.cz/fileadmin/up/css/main.css?1487002899" media="all">
-  <link rel="stylesheet" type="text/css" href="http://upol.cz/fileadmin/ext/extensions_temp.css?1542019305" media="all">
-  <link rel="stylesheet" type="text/css" href="http://upol.cz/fileadmin/up/css/up.css?1487599462" media="all">  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel='stylesheet' id='cookie-notice-front-css'  href='https://upoint.upol.cz/wp-content/plugins/cookie-notice/css/front.min.css?ver=4.9.8' type='text/css' media='all' />
+  <link rel='stylesheet' id='fancybox-css'  href='https://upoint.upol.cz/wp-content/plugins/fancybox-for-wordpress/fancybox/fancybox.css?ver=4.9.8' type='text/css' media='all' />
+  <link rel='stylesheet' id='woocommerce-layout-css'  href='https://upoint.upol.cz/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=3.4.0' type='text/css' media='all' />
+  <link rel='stylesheet' id='woocommerce-smallscreen-css'  href='https://upoint.upol.cz/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=3.4.0' type='text/css' media='only screen and (max-width: 768px)' />
+  <style id='woocommerce-inline-inline-css' type='text/css'>
+  .woocommerce form .form-row .required { visibility: visible; }
+  </style>
+  <link rel='stylesheet' id='tribe-accessibility-css-css'  href='https://upoint.upol.cz/wp-content/plugins/the-events-calendar/common/src/resources/css/accessibility.min.css?ver=4.7.17' type='text/css' media='all' />
+  <link rel='stylesheet' id='tribe-events-full-calendar-style-css'  href='https://upoint.upol.cz/wp-content/plugins/the-events-calendar/src/resources/css/tribe-events-full.min.css?ver=4.6.20.1' type='text/css' media='all' />
+  <link rel='stylesheet' id='tribe-events-calendar-style-css'  href='https://upoint.upol.cz/wp-content/plugins/the-events-calendar/src/resources/css/tribe-events-theme.min.css?ver=4.6.20.1' type='text/css' media='all' />
+  <link rel='stylesheet' id='tribe-events-calendar-full-mobile-style-css'  href='https://upoint.upol.cz/wp-content/plugins/the-events-calendar/src/resources/css/tribe-events-full-mobile.min.css?ver=4.6.20.1' type='text/css' media='only screen and (max-width: 768px)' />
+  <link rel='stylesheet' id='tribe-events-calendar-mobile-style-css'  href='https://upoint.upol.cz/wp-content/plugins/the-events-calendar/src/resources/css/tribe-events-theme-mobile.min.css?ver=4.6.20.1' type='text/css' media='only screen and (max-width: 768px)' />
+  <link rel='stylesheet' id='instag-slider-css'  href='https://upoint.upol.cz/wp-content/plugins/instagram-slider-widget/assets/css/instag-slider.css?ver=1.4.3' type='text/css' media='all' />
+  
+  
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  
+  
+  
+  
   {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}{% for post in posts %}
   <link rel="alternate" hreflang="{{ post.lang }}" href="{{ post.url }}" />{% endfor %}
   {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}{% for page in pages %}
