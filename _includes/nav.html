@@ -6,19 +6,11 @@
       </div>
       <nav class="tm-navbar uk-navbar">
             <ul class="uk-navbar-nav uk-visible-large">
-              <li class="uk-active"><a href="#" class="">Home</a></li>
-              <li class="uk-active"><a href="#" class="">Call for papers</a></li>
-              <li><a href="#" class="">Practical information</a></li>
-              <li><a href="#" class="">Contact</a></li>
-
-                <br>
-
-              <li class="uk-active"><a href="#" class="">English</a></li>
-              <li><a href="#" class="">Czech</a></li>
-              <li><a href="#" class="">French</a></li>
-              <li><a href="#" class="">Italian</a></li>
-              <li><a href="#" class="">Spanish</a></li>
-              <li><a href="#" class="">Portuguese</a></li>
+              {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+              {% for post in posts %} <li><a href="{{ post.url | prepend: site.baseurl }}" class="{{ post.lang }}">{{ post.lang }}</a></li> {% endfor %}
+              <br>
+              {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+              {% for page in pages %} <li><a href="{{ page.url | prepend: site.baseurl }}" class="{{ page.lang }}">{{ page.lang }}</a></li> {% endfor %}
           </ul>
         </nav>
     </div>         
