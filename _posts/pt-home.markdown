@@ -4,7 +4,7 @@ title:  "Cifre "
 ref: welcome
 date:   2018-12-12 14:48:44 +0100
 categories: jekyll update
-lang: sp
+lang: pt
 ---
 
 # II Coloquio Internacional de Filologías Románicas para Estudiantes
@@ -48,7 +48,8 @@ Los participantes dispondrán de quince minutos para su presentación, más unos
 ## Programa
 
 Disponible en este link a partir del 11 de marzo
-Sedes del coloquio
+
+## Sedes del coloquio
 
 * Křížkovského 10 Olomouc (Filozofická fakulta)
 * Univerzitní 226/4 Olomouc (Konvikt)
@@ -57,13 +58,13 @@ Sedes del coloquio
 
 Existen varias opciones para acceder a la ciudad desde los aeropuertos más cercanos: Bratislava, Brno, Ostrava, Praga o Viena. A continuación, les ofrecemos información sobre las más comunes.
 
-## Desde Praga
+### Desde Praga
 
 Se debe tomar el autobús Airport Express en la parada frente a las terminales del aeropuerto hasta la estación central de trenes, que es la última parada.
 
 Las compañías de tren con conexión a Olomouc son České dráhy, Leo Express y Student Agency. La duración del recorrido es de unas dos horas y media aproximadamente.
 
-## Desde Viena
+### Desde Viena
 
 La mencionada Student Agency ofrece conexiones de autobús diarias con la ciudad de Olomouc (haciendo transbordo en Brno). Por otro lado, la compañía de camionetas Tiger Express, conecta directamente el aeropuerto de Viena con la ciudad de Olomouc. Se tarda aproximadamente tres horas y media.
 Alojamiento
@@ -71,3 +72,4 @@ Alojamiento
 Los participantes pueden alojarse en una de las residencias de estudiantes de la Universidad Palacký. En este caso, es  importante efectuar la reserva con tiempo ya que al comienzo del año lectivo las plazas se agotan rápidamente. Pueden hacerlo escribiéndonos a cifre.olomouc@upol.cz 
 
 Tambien les ofrecemos una lista de hoteles y albergues en la ciudad.
+
