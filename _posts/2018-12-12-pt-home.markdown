@@ -14,9 +14,10 @@ lang: pt
 **Las representaciones del mundo en la lengua y la literatura**
 
 El Departamento de Filologías Románicas de la Universidad Palacký de Olomouc tiene el placer de anunciar la segunda edición del coloquio CIFRE Olomouc, que tendrá lugar entre los días 11 y 13 de abril de 2019. Esta propuesta tiene por objeto ofrecer a los estudiantes avanzados de filologías francesa, hispánica, italiana y portuguesa un espacio donde puedan presentar sus trabajos para así ganar experiencia en este tipo de instancias.
-Eje temático
 
-Desde el arte rupestre en las cuevas de Altamira, hasta “Nunca me abandones” de Kazuo Ishiguro, el ser humano siempre ha buscado representar las circunstancias en que vive y el mundo que lo rodea. La historia del hombre es la historia de la comunicación y del esfuerzo por representar el theatrum mundi.
+## Eje temático
+
+Desde el arte rupestre en las cuevas de Altamira, hasta “Nunca me abandones” de Kazuo Ishiguro, el ser humano siempre ha buscado representar las circunstancias en que vive y el mundo que lo rodea. La historia del hombre es la historia de la comunicación y del esfuerzo por representar el *theatrum mundi*.
 
 Ya en 1917 Viktor Shklovsky en su artículo “El arte como artificio” definía el arte como un intento por romper el automatismo de la percepción. Shklovsky define el arte como un volver a presentar aquello que por su cotidianeidad estamos acostumbrados a percibir automáticamente. Así, el extrañamiento radicaría en la naturaleza de la percepción y no en la obra misma.
 
@@ -67,7 +68,8 @@ Las compañías de tren con conexión a Olomouc son České dráhy, Leo Express 
 ### Desde Viena
 
 La mencionada Student Agency ofrece conexiones de autobús diarias con la ciudad de Olomouc (haciendo transbordo en Brno). Por otro lado, la compañía de camionetas Tiger Express, conecta directamente el aeropuerto de Viena con la ciudad de Olomouc. Se tarda aproximadamente tres horas y media.
-Alojamiento
+
+## Alojamiento
 
 Los participantes pueden alojarse en una de las residencias de estudiantes de la Universidad Palacký. En este caso, es  importante efectuar la reserva con tiempo ya que al comienzo del año lectivo las plazas se agotan rápidamente. Pueden hacerlo escribiéndonos a cifre.olomouc@upol.cz 
 

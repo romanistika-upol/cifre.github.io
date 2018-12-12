@@ -6,22 +6,74 @@ date:   2018-12-12 14:48:44 +0100
 categories: jekyll update
 lang: en
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+# II International Colloquium of Romance Philologies for Students
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
+**Second year**
+**Representations of the world in language and literature**
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+The Department of Romance Languages, Faculty of Arts, Palacký University is pleased to announce the second year of CIFRE Olomouc colloquium that will take place on April 11-13, 2019. This proposal aims to offer a space for advanced students of French, Hispanic, Italian and Portuguese studies to present their works in order to gain experience in participation in this type of event.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+## Thematic axis
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Since the parietal paintings in the Cave of Altamira, until Kazuo Ishiguro’s “Never let me go”, the human beings always aspired to represent the circumstances in which they live and the world that surrounds them.
+
+The history of a man is the history of communication and the attempt to portray the *theatrum mundi*.
+
+In 1917, in his article “Art as device”, Viktor Shklovsky already defined the artistic function as an attempt to break the automatism of human perception. In his approach, the art is described as a new presentation of that what we are used to perceive automatically in our everyday lives.
+
+Thus, the amazement experienced when subjected to art would be contained in the nature of perception and not in the piece of art itself.
+
+Linguistics, in its turn, explores human communication and the processes that are involved. Roman Jakobson, for example, identifies the metaphor and the metonymy –two theoretical concepts that originate in literature– as the two cornerstones which the language is based on.
+
+Therefore, we can understand literature and linguistics as two inherently and inextricably linked disciplines which are complementary. They focus on different aspects of the same phenomenon: the representation. For this second edition of CIFRE we propose Representations of the world in language and literature as a central theme.
+
+## Requirements of the call
+
+The CIFRE Olomouc colloquium is aimed for master or doctoral students.
+
+The abstracts:
+
+* Can be written in English, French, Italian, Portuguese or Spanish.
+* Should be between one hundred and two hundred words in legth, it must indicate the academic affiliation of the applicant and must be accompanied by a brief curriculum.
++ Can be sent till February 28 by e-mail to: cifre.olomouc@upol.cz
+
+
+The registration fee is 20 euros for a speaker and we will provide information about the payment in the acceptance email. The event will be open to the general public. We ask the speakers to confirm or cancel their participation by March 18.
+
+Participants will have fifteen minutes for the presentation, plus about ten minutes at the end of each round table to answer questions from the audience.
+
+## Important dates
+
+* February 28th deadline for the submission of abstracts
+* March 18 deadline for confirmation of attendance
+* 11th to 13th of April the conference
+
+## Program
+
+from March 11th, on this link
+
+## Colloquium venue
+
+* Křížkovského 10 Olomouc (Filozofická fakulta)
+* Univerzitní 226/4 Olomouc (Konvikt)
+
+## Transport to Olomouc
+
+There are different options for arriving to Olomouc from the closest airports: Bratislava, Brno, Ostrava, Prague or Vienna. Here we offer some information about the most common routes.
+
+### From Prague to Olomouc
+
+The easiest way to get from the airport to the main train station (last stop) is to take the Airport Express bus.
+
+The train companies with conection to Olomouc are České dráhy, Leo Express and Student Agency. It takes about two and a half hours from the train station to Olomouc.
+
+### From Vienna to Olomouc
+
+Also Student Agency offers daily bus conections to Olomouc (with transfer in Brno). On the other hand, van-operating company Tiger Express, conect directly the Vienna airport with Olomouc. It takes approx. three hours and a half.
+
+## Accommodation
+
+Participants can stay in one of the student dormitories of Palacký University. In this case, it is important to make a reservation as soon as posible because at the beggining of the academic year places sell out quickly. You can reserve by writing to cifre.olomouc@upol.cz 
+
+You can look for other options in this list of hotels and hostels in the city.
