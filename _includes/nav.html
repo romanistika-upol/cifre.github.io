@@ -1,11 +1,10 @@
   <div class="tm-navbar-container">
     <div class="uk-position-relative uk-text-center">
       <div class="tm-navbar-left uk-flex uk-flex-middle">
-        <a class="tm-logo-small uk-visible-large" href="./"><img src="./assets/logo.png" width="175" height="70" alt="Demo"></a>
-        <a href="#offcanvas" class="uk-navbar-toggle uk-hidden-large" data-uk-offcanvas></a>
+        <a class="tm-logo-small uk-hidden-small" href="./"><img src="./assets/logo.png" width="175" height="70" alt="Demo"></a>
       </div>
       <nav class="tm-navbar uk-navbar">
-            <ul class="uk-navbar-nav uk-visible-large">
+            <ul class="uk-navbar-nav uk-large">
                 
                 {% assign pages=site.pages | where:"lang", page.lang %}
                 {% for my_page in pages %}
