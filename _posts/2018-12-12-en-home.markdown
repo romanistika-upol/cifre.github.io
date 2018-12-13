@@ -6,10 +6,12 @@ date:   2018-12-12 14:48:44 +0100
 categories: jekyll update
 lang: en
 ---
+
 # II International Colloquium of Romance Philologies for Students
 
 
 **Second year**
+
 **Representations of the world in language and literature**
 
 The Department of Romance Languages, Faculty of Arts, Palacký University is pleased to announce the second year of CIFRE Olomouc colloquium that will take place on April 11-13, 2019. This proposal aims to offer a space for advanced students of French, Hispanic, Italian and Portuguese studies to present their works in order to gain experience in participation in this type of event.
