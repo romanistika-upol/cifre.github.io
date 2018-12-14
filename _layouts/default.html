@@ -24,7 +24,7 @@
 
     <!---<img class="img-banner" src="./assets/banner.jpg">--->
   
-<img class="img-banner" src="{% if page.image %}{{ page.image }}{% else %}{{ site.images[banner] }}{% endif %}">    
+<img class="img-banner" src="{% if page.image %}{{ page.image }}{% else %}{{ site.images.banner }}{% endif %}">    
   
     <div class="uk-container uk-container-center">
       <section class="tm-top-c uk-grid" data-uk-grid-match="{target:'> div > .uk-panel'}" data-uk-grid-margin="">
