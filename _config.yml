@@ -26,6 +26,12 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
-
+images:
+  logo: ./assets/logo.png 
+  banner: ./assets/banner.jpg
+event:
+  address: "Filozofická fakulta<br>Univerzita Palackého v Olomouci<br>Křížkovského 511/10<br>771 48 Olomouc<br>"
+  dates: April 11-13, 2019
+  title: CIFRE 2019 - II International Colloquium of Romance Philologies for Students
 # Build settings
 markdown: kramdown
