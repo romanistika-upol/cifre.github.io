@@ -6,7 +6,7 @@ title:
   pt: -CIFRE-
   sp: -CIFRE-
 email: cifre.olomouc@upol.cz
-remote_theme: romanistika-upol/template1
+remote_theme: 
 description:
   en: Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
   fr: Écrivez une super description de votre nouveau site ici. Vous pouvez modifier cette ligne dans _config.yml. Elle apparaîtra dans la balise meta description (pour les résultats sur Google) et dans le fil RSS feed.xml.
@@ -26,6 +26,12 @@ images:
 event:
   address: "Filozofická fakulta<br>Univerzita Palackého v Olomouci<br>Křížkovského 511/10<br>771 48 Olomouc<br>"
   dates: April 11-13, 2019
-  title: CIFRE 2019 - II International Colloquium of Romance Philologies for Students
+  title: CIFRE 2019
+  subtitle: 
+      en: II International Colloquium of Romance Philologies for Students
+      fr: -CIFRE-
+      it: II Colloquio Internazionale di Filologia Romanza per studenti
+      pt: II Colóquio Internacional de Filologias Românicas para Estudantes
+      sp: II Coloquio Internacional de Filologías Románicas para Estudiantes
 # Build settings
 markdown: kramdown
