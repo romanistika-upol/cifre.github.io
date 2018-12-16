@@ -23,15 +23,15 @@ github_username:  jekyll
 images:
   logo: ./assets/img/logo.png 
   banner: ./assets/img/banner.jpg
-event:
-  address: "Filozofická fakulta<br>Univerzita Palackého v Olomouci<br>Křížkovského 511/10<br>771 48 Olomouc<br>"
-  dates: #April 11-13, 2019
-  title: #CIFRE 2019
-  subtitle: 
-      en: #II International Colloquium of Romance Philologies for Students
-      fr: #-CIFRE-
-      it: #II Colloquio Internazionale di Filologia Romanza per studenti
-      pt: #II Colóquio Internacional de Filologias Românicas para Estudantes
-      sp: #II Coloquio Internacional de Filologías Románicas para Estudiantes
+#event:
+#  address: "Filozofická fakulta<br>Univerzita Palackého v Olomouci<br>Křížkovského 511/10<br>771 48 Olomouc<br>"
+#  dates: April 11-13, 2019
+#  title: CIFRE 2019
+#  subtitle: 
+#      en: II International Colloquium of Romance Philologies for Students
+#      fr: -CIFRE-
+#      it: II Colloquio Internazionale di Filologia Romanza per studenti
+#      pt: II Colóquio Internacional de Filologias Românicas para Estudantes
+#      sp: II Coloquio Internacional de Filologías Románicas para Estudiantes
 # Build settings
 markdown: kramdown
