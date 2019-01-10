@@ -1,10 +1,10 @@
 # Site settings
 title:
-  en: -CIFRE-
-  fr: -CIFRE-
-  it: -CIFRE-
-  pt: -CIFRE-
-  sp: -CIFRE-
+  en: CIFRE
+  fr: CIFRE
+  it: CIFRE
+  pt: CIFRE
+  sp: CIFRE
 email: cifre.olomouc@upol.cz
 remote_theme:  romanistika-upol/template1
 description:
